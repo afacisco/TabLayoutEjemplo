@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TabLayout Ejemplo</string>
+    <string name="tab1_text">Pestaña1</string>
+    <string name="tab2_text">Pestaña2</string>
+    <string name="tab3_text">Pestaña3</string>
+    <string name="navbutton_home_text">Home selected</string>
+    <string name="navbutton_dashboard_text">Dashboard selected</string>
+    <string name="navbutton_notifications_text">Notifications selected</string>
+    <string name="tab_sel_text">"Seleccionada: %1$s"</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
